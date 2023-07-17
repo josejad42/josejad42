@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there 👋
 
 <!--
 **josejad42/josejad42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ What's up guys? My name is Alex, and I'm currently a computer engineering studen
 
 I explored the fundamentals of programming in C, C++ and Python, improving my understanding of algorithms and data structures. Additionally, I ventured into hardware design with Verilog, gaining insights into assembly language, low-level programming, and system architectures.
 
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&layout=donut&theme=dracula)
-![Stats](https://github-readme-stats.vercel.app/api?username=josejad42&show_icons=true&theme=dracula)
+[![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&layout=donut&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=josejad42&show_icons=true&theme=dracula)]
