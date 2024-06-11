@@ -18,6 +18,6 @@ What's up guys? My name is Alex, and I'm currently a computer engineering studen
 
 I explored the fundamentals of programming in C, C++ and Python, improving my understanding of algorithms and data structures. Additionally, I ventured into hardware design with Verilog, gaining insights into assembly language, low-level programming, and system architectures.
 
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&theme=dracula)
+![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&size_weight=0.3&count_weight=0.7&layout=donut&langs_count=8&theme=dracula)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=josejad42&theme=dracula)
