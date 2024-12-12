@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-What's up guys? My name is Alex, and I'm currently a computer engineering student at UFPE. I am very interested in quantum computing, an area in which I am involved in scientific research. I am also research director at [laciq](https://www.instagram.com/laciq.ufpe), an academic league that develops teaching, extension and research activities in the area. Also, I am particularly interested in hardware development and theory of computation.
+What's up guys? My name is Alex, and I'm currently a computer engineering student at UFPE. I am very interested in quantum computing, an area in which I am involved in scientific research. I am also vice president at [laciq](https://www.instagram.com/laciq.ufpe), an academic league that develops teaching, extension and research activities in the area. Also, I am particularly interested in hardware development and theory of computation.
 
 I explored the fundamentals of programming in several languages ​​such as C, C++, Haskell and Python, improving my understanding of algorithms and data structures. Additionally, I ventured into hardware design with Verilog, assembly language, low-level programming, and system architectures.
 
