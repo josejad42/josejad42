@@ -14,9 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-What's up guys? My name is Alex, and I'm currently a computer engineering student at UFPE. I am very interested in quantum computing, an area in which I am involved in scientific research. I am also vice president at [laciq](https://www.instagram.com/laciq.ufpe), an academic league that develops teaching, extension and research activities in the area. Also, I am particularly interested in hardware development and theory of computation.
+### Hey, I'm Alex 👋
 
-I explored the fundamentals of programming in several languages ​​such as C, C++, Haskell and Python, improving my understanding of algorithms and data structures. Additionally, I ventured into hardware design with Verilog, assembly language, low-level programming, and system architectures.
+Computer Engineering student currently doing a double degree at **ENSTA Paris** (from **UFPE**, Brazil). I'm into **quantum software** and **low-level programming**.
+
+Most of my recent code revolves around quantum compilation and circuit optimization, though I still enjoy messing around with systems architecture.
+
+#### 💻 Open Source & Projects
+- Implemented quantum multiplexer simplification to reduce CX count and circuit depth in **[Qiskit (#13099)](https://github.com/Qiskit/qiskit/pull/13099)**
+- Contributor to **[qclib](https://github.com/qclib/qclib)** — state preparation & quantum circuit optimization
+- Co-built a grammar-based quantum compilation library ([https://github.com/qsoftware/synq])
+
+#### 🛠️ Stack & Interests
+- **Languages:** Python, C, C++
+- **Low-level / Hardware:** Verilog, Assembly, Computer Architecture
+- **Quantum:** Qiskit, Perceval
+
+#### 📌 Beyond code
+- Former VP at [LACIQ](https://www.instagram.com/laciq.ufpe) (UFPE's Quantum Computing Academic League)
+- Occasionally writing papers → [Google Scholar](https://scholar.google.com/citations?user=abcB2GkAAAAJ)
 
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&size_weight=0.3&count_weight=0.7&layout=donut&langs_count=8&theme=dracula)
 
