@@ -23,7 +23,7 @@ Most of my recent code revolves around quantum compilation and circuit optimizat
 #### 💻 Open Source & Projects
 - Implemented quantum multiplexer simplification to reduce CX count and circuit depth in **[Qiskit (#13099)](https://github.com/Qiskit/qiskit/pull/13099)**
 - Contributor to **[qclib](https://github.com/qclib/qclib)** — state preparation & quantum circuit optimization
-- Co-built a grammar-based quantum compilation library ([https://github.com/qsoftware/synq])
+- Co-built a grammar-based quantum compilation library **[synq](https://github.com/qsoftware/synq)**
 
 #### 🛠️ Stack & Interests
 - **Languages:** Python, C, C++
@@ -33,7 +33,3 @@ Most of my recent code revolves around quantum compilation and circuit optimizat
 #### 📌 Beyond code
 - Former VP at [LACIQ](https://www.instagram.com/laciq.ufpe) (UFPE's Quantum Computing Academic League)
 - Occasionally writing papers → [Google Scholar](https://scholar.google.com/citations?user=abcB2GkAAAAJ)
-
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josejad42&size_weight=0.3&count_weight=0.7&layout=donut&langs_count=8&theme=dracula)
-
-![Status](https://github-readme-stats.vercel.app/api?username=josejad42&theme=dracula)
